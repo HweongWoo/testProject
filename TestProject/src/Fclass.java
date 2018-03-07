@@ -1,4 +1,12 @@
 
 public class Fclass {
-
+	int x;
+	int y;
+	
+	int add (int a, int b){
+		return a+b;
+	}
+	int sub (int a, int b){
+		return a-b;
+	}
 }
